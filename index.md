@@ -38,7 +38,7 @@ Cyber Forensics, Reverse Engineering (Fall 2021)
 **Louisiana State University** (Teaching Assistant/Lab Assistant)  
 CS Teaching Methods (Fall 2020)  
 Data Structures and Algorithms (Summer 2020)  
-Operating Systems, Programming in Java, Introduction to MATLAB (Fall 2017)  
+Operating Systems, Java Programming, Introduction to MATLAB (Fall 2017)  
 Reverse Engineering and Malware Analysis (Spring 2017)  
  
 ## Professional Services 
