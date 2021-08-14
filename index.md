@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## About 
+I am known to most people as Modhu. I am a Ph.D. candidate in Computer Science (with a concentration in cybersecurity) at Louisiana State University in Baton Rouge, LA. I am advised by Golden G. Richard III, Professor of Computer Science at LSU, and co-advised by Andrew Case and Aisha Ali-Gombe. I am a part of the Applied Cybersecurity Research Lab at CCT in LSU. My research interests involve application security, memory forensics, digital forensics, malware analysis, and reverse engineering. Recently, I have taken up the position of Visiting Assistant Professor at the University of New Haven in West Haven, CT. 
+
+## Education
+**Ph.D. in Computer Science**
+Louisiana State University (Spring 2017-Present)
+
+**B. Tech in Computer Science**
+Heritage Institute of Technology (Aug 2009-JUl 2014, Kolkata, India)
 
 You can use the [editor on GitHub](https://github.com/Modhuparna/Modhuparna.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
