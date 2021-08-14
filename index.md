@@ -41,7 +41,7 @@ Data Structures and Algorithms (Summer 2020)
 Operating Systems, Programming in Java, Introduction to MATLAB (Fall 2017)  
 Reverse Engineering and Malware Analysis (Spring 2017)  
  
-## Professional Services  
+## Services 
 Designed Cybersecurity curriculum for high school students  
 Student Affiliate, American Academy of Forensic Sciences (AAFS)  
 Student Member, Women in Cybersecurity (WiCyS)  
