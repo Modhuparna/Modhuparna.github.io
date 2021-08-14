@@ -1,3 +1,4 @@
+![Modhu](https://user-images.githubusercontent.com/29296313/129455170-0f8426fe-e1fb-427a-a78f-e651860913be.jpeg)
 ## About 
 I am known to most people as Modhu. I am a Ph.D. candidate in Computer Science (with a concentration in cybersecurity) at Louisiana State University in Baton Rouge, LA. I am advised by Golden G. Richard III, Professor of Computer Science at LSU, and co-advised by Andrew Case and Aisha Ali-Gombe. I am a part of the Applied Cybersecurity Research Lab at CCT in LSU. &nbsp;  
 Recently, I have taken up the position of Visiting Assistant Professor at the University of New Haven in West Haven, CT. I teach cybersecurity courses like cyber forensics and reverse engineering. I am actively involved in cybersecurity researh at LSU and UNH. My research interests span over areas including application security, memory forensics, digital forensics, malware analysis, and reverse engineering. 
