@@ -1,9 +1,24 @@
+    <style type="text/css">
+    .image-left {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      float: right;
+    }
+    </style>
+    [
+![Modhu](https://user-images.githubusercontent.com/29296313/129455170-0f8426fe-e1fb-427a-a78f-e651860913be.jpeg){: .image-left } [Email](mailto:modhuparnamanna10@gmail.com)  
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=eIamwJUAAAAJ)  
+[Twitter](https://twitter.com/modhuparna)  
+[LinkedIn](https://linkedin.com/in/modhuparna-manna-5217b035)  
+[CV](https://github.com/Modhuparna/Modhuparna.github.io/files/6987005/currentCVweb.pdf)  
+<!-- 
 ![Modhu](https://user-images.githubusercontent.com/29296313/129455170-0f8426fe-e1fb-427a-a78f-e651860913be.jpeg)   
 [Email](mailto:modhuparnamanna10@gmail.com)  
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=eIamwJUAAAAJ)  
 [Twitter](https://twitter.com/modhuparna)  
 [LinkedIn](https://linkedin.com/in/modhuparna-manna-5217b035)  
-[CV](https://github.com/Modhuparna/Modhuparna.github.io/files/6987005/currentCVweb.pdf)  
+[CV](https://github.com/Modhuparna/Modhuparna.github.io/files/6987005/currentCVweb.pdf)   -->
 
 ## About 
 My name is Modhuparna Manna, known to most people as Modhu. I am a Ph.D. candidate in Computer Science (with a concentration in cybersecurity) at Louisiana State University in Baton Rouge, LA. I am advised by Golden G. Richard III, Professor of Computer Science at LSU, and co-advised by Andrew Case and Aisha Ali-Gombe. I am a part of the Applied Cybersecurity Research Lab at CCT in LSU. &nbsp;  
