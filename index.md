@@ -24,6 +24,20 @@ G. G. Richard III, A. Case, M. Manna, E. Hahne, A. Ali-Gombe (In: Ijeh AC, Curra
 **Memory Analysis of macOS Page Queues**  
 A. Case, R. Maggio, M. Manna, G. G. Richard III (Digital Forensics Research Conference, 2020)
 
+## Teaching
+
+**University of New Haven**  
+Cyber Forensics, Reverse Engineering (Fall 2021)
+
+**Louisiana State University** (Teaching Assistant/Lab Assistant)  
+CS Teaching Methods (Fall 2020)  
+Data Structures and Algorithms (Summer 2020)  
+Operating Systems, Programming in Java, Introduction to MATLAB (Fall 2017)  
+Reverse Engineering and Malware Analysis (Spring 2017)  
+ 
+ 
+
+
 
 You can use the [editor on GitHub](https://github.com/Modhuparna/Modhuparna.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
