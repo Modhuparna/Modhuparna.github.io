@@ -1,4 +1,4 @@
-<img style="float: right;",![Modhu](https://user-images.githubusercontent.com/29296313/129455170-0f8426fe-e1fb-427a-a78f-e651860913be.jpeg)>   
+![Modhu](https://user-images.githubusercontent.com/29296313/129455170-0f8426fe-e1fb-427a-a78f-e651860913be.jpeg)  
 [Email](mailto:modhuparnamanna10@gmail.com)  
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=eIamwJUAAAAJ)  
 [Twitter](https://twitter.com/modhuparna)  
