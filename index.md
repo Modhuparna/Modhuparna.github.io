@@ -6,7 +6,7 @@ Recently, I have taken up the position of Visiting Assistant Professor at the Un
 **Ph.D. in Computer Science** &nbsp;  
 Louisiana State University (Spring 2017-Present)
 
-**B. Tech in Computer Science** &nbsp;   
+**B. Tech. in Computer Science** &nbsp;   
 Heritage Institute of Technology (Aug 2009-Jul 2014, Kolkata, India)
 
 You can use the [editor on GitHub](https://github.com/Modhuparna/Modhuparna.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
