@@ -8,20 +8,24 @@ Visiting Assistant Professor at University of New Haven
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=eIamwJUAAAAJ)  
 [Twitter](https://twitter.com/modhuparna)  
 [LinkedIn](https://linkedin.com/in/modhuparna-manna-5217b035)  
-[CV](https://github.com/Modhuparna/Modhuparna.github.io/files/6987005/currentCVweb.pdf)   -->
+[CV](https://github.com/Modhuparna/Modhuparna.github.io/blob/main/currentCV.docx)   -->
 
 ## About 
-My name is Modhuparna Manna, known to most people as Modhu. I am a Ph.D. candidate in Computer Science (with a concentration in cybersecurity) at Louisiana State University in Baton Rouge, LA. I am advised by Golden G. Richard III, Professor of Computer Science at LSU, and co-advised by Andrew Case and Aisha Ali-Gombe. I am a part of the Applied Cybersecurity Research Lab at CCT in LSU. &nbsp;  
-Recently, I have taken up the position of Visiting Assistant Professor at the University of New Haven in West Haven, CT. I teach cybersecurity courses like cyber forensics and reverse engineering. I am actively involved in cybersecurity researh at LSU and UNH. My research interests span over areas including application security, memory forensics, digital forensics, malware analysis, and reverse engineering. 
+My name is Modhuparna Manna, known to most people as Modhu. I am an Assistant Professor at the University of New Haven in West Haven, CT. I teach cybersecurity courses like introduction to cybersecurity, cyber forensics, memory forensics, and reverse engineering. My research interests span over areas including application security, memory forensics, digital forensics, malware analysis, and reverse engineering. 
+
+I earned my Ph.D. in Computer Science (with a concentration in cybersecurity) at Louisiana State University in Baton Rouge, LA. I was advised by Golden G. Richard III, Professor of Computer Science at LSU, and co-advised by Andrew Case and Aisha Ali-Gombe at the Applied Cybersecurity Research Lab at CCT in LSU. &nbsp;  
+ 
 
 ## Education
 **Ph.D. in Computer Science** &nbsp;  
-Louisiana State University (Spring 2017-Present)
+Louisiana State University (Spring 2017-Fall 2021)
 
 **B. Tech. in Computer Science** &nbsp;   
 Heritage Institute of Technology (Aug 2009-Jul 2014, Kolkata, India)
 
 ## Publications
+**Memory Analysis of .NET and .Net Core Applications**
+M. Manna, A. Case, A. Ali-Gombe, G. G. Richard III (Digital Forensics Research Conference, 2022)
 
 **Modern macOS Userland Runtime Analysis**  
 M. Manna, A. Case, A. Ali-Gombe, G. G. Richard III (Forensic Science International: Digital Investigation, 2021)
@@ -37,7 +41,8 @@ A. Case, R. Maggio, M. Manna, G. G. Richard III (Digital Forensics Research Conf
 
 ## Teaching
 
-**University of New Haven**  
+**University of New Haven** 
+Cyber Forensics, Memory Forensics, Introduction to Computer Security (Spring 2022)
 Cyber Forensics, Reverse Engineering (Fall 2021)
 
 **Louisiana State University** (Teaching Assistant/Lab Assistant)  
@@ -46,9 +51,11 @@ Data Structures and Algorithms (Summer 2020)
 Operating Systems, Java Programming, Introduction to MATLAB (Fall 2017)  
 Reverse Engineering and Malware Analysis (Spring 2017)  
  
-## Professional Services 
+## Other Activities 
+Presented Lightning Talk at WiCyS 2022 (Cleveland, Ohio)
+Part of DMS Awards Committee at AAFS 2022 (Seattle, Washington)
 Designed Cybersecurity curriculum for high school students  
-Student Affiliate, American Academy of Forensic Sciences (AAFS)  
-Student Member, Women in Cybersecurity (WiCyS)  
+Affiliate, American Academy of Forensic Sciences (AAFS)  
+Member, Women in Cybersecurity (WiCyS)  
 Reviewer, Digital Investigation (Elsevier)
 
